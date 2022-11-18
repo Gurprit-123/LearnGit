@@ -6,3 +6,4 @@ public class Diff {
         System.out.println("The diff is"+c);  
       }
 }
+//merging conflicts
